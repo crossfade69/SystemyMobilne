@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MNQuiz</string>
+    <string name="true_button">Tak</string>
+    <string name="false_button">Nie</string>
+    <string name="next_button">-></string>
+
+    <string name="correct_answer">Dobrze!</string>
+    <string name="incorrect_answer">Źle!</string>
+
+    <string name="q_budyn">Lubisz budyń? Któż nie lubi dobrego budyniu... Z LUDZI!</string>
+    <string name="q_chrzescijanin">Chrześcijanin tańczy, tańczy, tańczy, tańczy, tańczy</string>
+    <string name="q_francesinha">francesinha (tost kiełbasa kotlet boczek parówki jakieś smażone
+        mięso ser tost jajko sadzone - frytki i wszystko ratuje tłusty sos) :)
+        Portugalskie narodowe danie</string>
+    <string name="q_autobiografia">NIE PROSIŁEM SIĘ O TWOJĄ AUTOBIOGRAFIĘ, DŻIZYS KRAJST</string>
+    <string name="q_napluli">NAPLULI MI W BARSZCZ</string>
+</resources>
